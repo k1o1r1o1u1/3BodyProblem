@@ -195,16 +195,8 @@ orig = [
 - Add GUI controls for adjusting parameters like `G`, `dt`, and `planet count`  
 - Option to export simulation data to CSV or JSON  
 
----
 
-## 📜 License
 
-This project is released under the **MIT License**.  
-You’re free to use, modify, and share it with credit.
 
 ---
 
-## 👨‍💻 Author
-
-**[Your Name](https://github.com/<your-username>)**  
-*3D Gravitational Simulation using Python and Matplotlib*
